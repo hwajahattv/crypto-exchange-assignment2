@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![image](https://github.com/hwajahattv/crypto-exchange-assignment2/assets/93664992/66038d43-c3b0-4371-b0de-645a8c54b28c)
+![image](https://github.com/hwajahattv/crypto-exchange-assignment2/assets/93664992/94efb1b9-d72c-4811-9405-c580dbdad6f2)
+![image](https://github.com/hwajahattv/crypto-exchange-assignment2/assets/93664992/293f2c68-082c-4a1a-aa7f-7d7709f48951)
+![image](https://github.com/hwajahattv/crypto-exchange-assignment2/assets/93664992/ac60cc90-f7c7-42e7-bb6f-9ee1414dbdc3)
+![image](https://github.com/hwajahattv/crypto-exchange-assignment2/assets/93664992/0c457e34-7dac-4dfa-86f6-d0293470ee4b)
+![image](https://github.com/hwajahattv/crypto-exchange-assignment2/assets/93664992/c457aa9b-6998-4a6f-b98a-4e13f6cd130b)
+
+
+
+
